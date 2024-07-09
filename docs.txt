@@ -1,0 +1,5 @@
+add user
+1. xu ly form
+2. xu ly su kien submit -> dispatch actions len store cua vuex
+3. xu ly actions de xu ly mutations
+4. lay du lieu tu state de render ra man hinh
